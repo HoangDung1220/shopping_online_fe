@@ -1,0 +1,61 @@
+.item-row {
+  margin-bottom: 20px;
+}
+
+.row__first {
+  margin-top: 50px;
+}
+
+.row__last {
+  margin-top: 50px;
+}
+
+.item__title {
+  color: rgb(96 125 139);
+  font-size: 13px;
+  padding: 5px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.item__element {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.title-card {
+  margin-left: 20px;
+  font-size: 25px;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+.container-main__header {
+  position: relative;
+}
+
+.container-main__content {
+  position: relative;
+  margin-top: 50px;
+}
+
+.header__title {
+  position: absolute;
+  left: 20px;
+  top: -20px;
+  width: 97%;
+  height: 80px;
+  background-color: #424242;
+  border-radius: 0.8rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.card__pagination {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
